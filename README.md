@@ -33,3 +33,4 @@ This is just for educational purpose and I do not have any involvement with any 
 DEVELOPER: https://t.me/pysmart
 
 FACEBOOK MASS REPORT TOOL
+FACEBOOK LOGIN SCRIPT
